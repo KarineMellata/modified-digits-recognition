@@ -1,4 +1,4 @@
-#modified-digits-recognition
+# modified-digits-recognition
 COMP551 Project 3
 
 ## Convolutional Neural Network

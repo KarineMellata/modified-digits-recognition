@@ -1,4 +1,4 @@
-# modified-digits-recognition
+# Modified MNIST Digits Recognition
 COMP551 Project 3
 
 ## Convolutional Neural Network
